@@ -2,4 +2,4 @@
 
 Örnek oyun teması clone çalışması
 
-https://etjecode-game-portal.netlify.app/
+https://etjecode-oyun-sitesi-2.netlify.app/
